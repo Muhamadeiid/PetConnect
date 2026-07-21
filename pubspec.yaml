@@ -48,7 +48,7 @@ dependencies:
   webview_flutter: ^4.9.0    # for Paymob iframe
 
   # Misc
-  intl: ^0.20.2
+  intl: any
   url_launcher: ^6.3.1
   package_info_plus: ^8.0.2
   device_info_plus: ^10.1.2
